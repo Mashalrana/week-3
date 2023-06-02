@@ -1,7 +1,7 @@
 <?php
 // Databasegegevens
 $host = 'localhost:3307';
-$db   = 'test';
+$db   = 'winkel';
 $user = 'root';
 $pass = '';
 $charset = 'utf8mb4';
